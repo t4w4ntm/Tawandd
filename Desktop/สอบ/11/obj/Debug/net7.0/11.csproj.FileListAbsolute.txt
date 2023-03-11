@@ -1,0 +1,15 @@
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.csproj.AssemblyReference.cache
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.AssemblyInfoInputs.cache
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.AssemblyInfo.cs
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.csproj.CoreCompileInputs.cache
+C:\Users\Tawan\Desktop\สอบ\11\bin\Debug\net7.0\11.exe
+C:\Users\Tawan\Desktop\สอบ\11\bin\Debug\net7.0\11.deps.json
+C:\Users\Tawan\Desktop\สอบ\11\bin\Debug\net7.0\11.runtimeconfig.json
+C:\Users\Tawan\Desktop\สอบ\11\bin\Debug\net7.0\11.dll
+C:\Users\Tawan\Desktop\สอบ\11\bin\Debug\net7.0\11.pdb
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.dll
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\refint\11.dll
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.pdb
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\11.genruntimeconfig.cache
+C:\Users\Tawan\Desktop\สอบ\11\obj\Debug\net7.0\ref\11.dll
