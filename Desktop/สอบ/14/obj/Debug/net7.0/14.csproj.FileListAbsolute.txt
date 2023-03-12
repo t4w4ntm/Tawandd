@@ -1,0 +1,15 @@
+C:\Users\Tawan\Desktop\สอบ\14\bin\Debug\net7.0\14.exe
+C:\Users\Tawan\Desktop\สอบ\14\bin\Debug\net7.0\14.deps.json
+C:\Users\Tawan\Desktop\สอบ\14\bin\Debug\net7.0\14.runtimeconfig.json
+C:\Users\Tawan\Desktop\สอบ\14\bin\Debug\net7.0\14.dll
+C:\Users\Tawan\Desktop\สอบ\14\bin\Debug\net7.0\14.pdb
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.csproj.AssemblyReference.cache
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.AssemblyInfoInputs.cache
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.AssemblyInfo.cs
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.csproj.CoreCompileInputs.cache
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.dll
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\refint\14.dll
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.pdb
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\14.genruntimeconfig.cache
+C:\Users\Tawan\Desktop\สอบ\14\obj\Debug\net7.0\ref\14.dll
